@@ -28,13 +28,19 @@ Push the above changes to GitHub or GitLab.
 Your Task
 
 Level 1: Basic Visualization
+![image](https://user-images.githubusercontent.com/97811339/180628495-410601c8-482a-430b-9224-17a14614ea5d.png)
+
 
 Your first task is to visualize an earthquake data set.
 
 
 Get your data set
+![image](https://user-images.githubusercontent.com/97811339/180628503-88870efc-cfac-49a7-8f01-1aade04bed43.png)
+
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed page and pick a data set to visualize. When you click on a data set, for example "All Earthquakes from the Past 7 Days", you will be given a JSON representation of that data. You will use the URL of this JSON to pull in the data for our visualization.
+![image](https://user-images.githubusercontent.com/97811339/180628517-c4b296b9-d346-47a8-addb-ef7a5544c057.png)
+
 
 
 
